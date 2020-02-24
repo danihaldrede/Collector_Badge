@@ -1,0 +1,1 @@
+# Collector_Badge.js
