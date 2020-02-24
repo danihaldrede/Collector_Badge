@@ -25,6 +25,4 @@ console.log(animals[5]);
  
 animals.reverse();
 
-console.log(last); 
-
 animals.sort();
