@@ -22,10 +22,7 @@ console.log(animals[3]);
 console.log(animals[4]);
 
 console.log(animals[5]); 
-
-
-console.log(first); 
-
+ 
 animals.reverse();
 
 console.log(last); 
